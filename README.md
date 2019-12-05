@@ -1,5 +1,7 @@
 # FreeGenes MoClo RFC
+
 Authors: Keoni Gandall
+
 Date: 2019.12.04
 
 It's well known that DNA sequencing and DNA synthesis costs have been dropping exponentially for the past few years. From an outside perspective, these graphs are wonderful, and demonstrate that "progress is being made". However, most of the cost of building DNA is not in DNA synthesis, but in DNA build. [Twist Oligo pricing vs Twist Synthesis pricing]
@@ -83,7 +85,9 @@ The last codon of any given protein is standardized according to the following t
 
 
 [1] https://twitter.com/koeng101/status/1183584639488839680
+
 [2] https://twitter.com/koeng101/status/1183585287781408768
+
 [3] ./igem_power_law/igem.ipynb
 
 
